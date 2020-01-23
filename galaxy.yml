@@ -1,0 +1,14 @@
+namespace: ansible
+name: a10
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies: {}
+repository: git@github.com:coll-test/ansible.a10.git
+documentation: https://github.com/coll-test/ansible.a10/tree/master/docs
+homepage: https://github.com/coll-test/ansible.a10
+issues: https://github.com/coll-test/ansible.a10/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
